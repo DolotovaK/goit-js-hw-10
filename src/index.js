@@ -6,6 +6,8 @@ import {
   renderMarkupOneCountryInfo,
   renderMarkupCountriesList,
   clearMarkup,
+  countryList,
+  countryInfoContainer,
 } from './js/renderMarkup';
 
 const DEBOUNCE_DELAY = 300;

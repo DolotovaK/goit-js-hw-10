@@ -1,5 +1,5 @@
-const countryList = document.querySelector('.country-list');
-const countryInfoContainer = document.querySelector('.country-info');
+export const countryList = document.querySelector('.country-list');
+export const countryInfoContainer = document.querySelector('.country-info');
 
 export function renderMarkupCountriesList(countryArr) {
   return countryArr
